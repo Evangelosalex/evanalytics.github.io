@@ -1,7 +1,8 @@
 title: Evanalyticsalex
-Logo: assets/images/profile_pic.png
-# description: xxx
-show_downloads: True
-remote_theme: pages-theme/minimal@v0.2.0
+logo: assets/images/profile_pic.png
+show_downloads: true
+remote_theme: pages-themes/minimal@v0.2.0
+
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
+
