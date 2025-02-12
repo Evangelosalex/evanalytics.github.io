@@ -112,12 +112,16 @@ The dataset is refined by:
 - Removing null or inconsistent values
 
 #### Processed Data Schema
+
+```
 | Column Name       | Data Type | Nullable |
 |------------------|----------|----------|
 | channel_name     | VARCHAR  | NO       |
 | total_subscribers | INTEGER  | NO       |
 | total_views     | INTEGER  | NO       |
 | total_videos    | INTEGER  | NO       |
+```
+
 
 #### SQL Transformation Query
 ```sql
