@@ -1,6 +1,3 @@
-# Data Portfolio 
-
-
 # Data Portfolio: Excel to Power BI 
 
 
@@ -13,7 +10,6 @@
 - [Data Source](#data-source)
 - [Stages](#stages)
 - [Design](#design)
-  - [Mockup](#mockup)
   - [Tools](#tools)
 - [Development](#development)
   - [Pseudocode](#pseudocode)
