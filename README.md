@@ -111,7 +111,7 @@ The dataset is refined by:
 - Ensuring correct data types
 - Removing null or inconsistent values
 
-## Processed Data Schema
+#### Processed Data Schema
 | Column Name       | Data Type | Nullable |
 |------------------|----------|----------|
 | channel_name     | VARCHAR  | NO       |
