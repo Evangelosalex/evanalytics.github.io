@@ -1,10 +1,10 @@
 title: EvanalyticsAlex
-logo: assets/images/Screenshot 2025-02-10 174800.png
+logo: assets/images/Screenshot_2025-02-10_174800.png
 description: "Data Portfolio | Business Intelligence | Analytics & Visualization"
 show_downloads: true
 
 # GitHub Pages theme
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: pages-themes/merlot@v0.2.0
 
 # Jekyll Plugins
 plugins:
