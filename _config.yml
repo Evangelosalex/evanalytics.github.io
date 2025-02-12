@@ -4,7 +4,7 @@ description: "Data Portfolio | Business Intelligence | Analytics & Visualization
 show_downloads: true
 
 # GitHub Pages theme
-remote_theme: pages-themes/merlot@v0.2.0
+remote_theme: pages-themes/modernist@v0.2.0
 
 # Jekyll Plugins
 plugins:
