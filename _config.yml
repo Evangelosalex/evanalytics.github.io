@@ -10,7 +10,11 @@ remote_theme: pages-themes/modernist@v0.2.0
 plugins:
   - jekyll-remote-theme
 
-# Additional Configurations (Optional)
+# Additional Configurations
 author: "Evangelos"
 github:
   is_project_page: true
+
+# Markdown Processor (Enables GitHub Flavored Markdown for tables)
+kramdown:
+  input: GFM
