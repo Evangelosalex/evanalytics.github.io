@@ -3,28 +3,28 @@
 ![excel-to-powerbi-animated-diagram](assets/images/kaggle_to_powerbi.gif)
 
 ## Table of Contents
-- [Objective](#objective)
-- [Data Source](#data-source)
-- [Project Stages](#project-stages)
-- [Design](#design)
+- <strong>[Objective](#objective)</strong>
+- <strong>[Data Source](#data-source)</strong>
+- <strong>[Project Stages](#project-stages)</strong>
+- <strong>[Design](#design)</strong>
   - [Tools & Technologies](#tools--technologies)
-- [Development](#development)
+- <strong>[Development](#development)</strong>
   - [Pseudocode & Workflow](#pseudocode--workflow)
   - [Data Exploration](#data-exploration)
   - [Data Cleaning & Transformation](#data-cleaning--transformation)
   - [SQL View Creation](#sql-view-creation)
-- [Testing & Validation](#testing--validation)
+- <strong>[Testing & Validation](#testing--validation)</strong>
   - [Data Quality & Integrity Checks](#data-quality--integrity-checks)
-- [Visualization](#visualization)
+- <strong>[Visualization](#visualization)</strong>
   - [Power BI Dashboard](#power-bi-dashboard)
   - [DAX Measures](#dax-measures)
-- [Analysis & Insights](#analysis--insights)
+- <strong>[Analysis & Insights](#analysis--insights)</strong>
   - [Findings](#findings)
   - [Strategic Insights](#strategic-insights)
-- [Recommendations](#recommendations)
+- <strong>[Recommendations](#recommendations)</strong>
   - [Projected ROI](#projected-roi)
   - [Actionable Strategies](#actionable-strategies)
-- [Conclusion](#conclusion)
+- <strong>[Conclusion](#conclusion)</strong>
 
 ## Objective
 
