@@ -3,7 +3,6 @@
 ![excel-to-powerbi-animated-diagram](assets/images/kaggle_to_powerbi.gif)
 
 ## Table of Contents
-
 - [Objective](#objective)
 - [Data Source](#data-source)
 - [Project Stages](#project-stages)
@@ -129,7 +128,7 @@ SELECT
     total_views,
     total_videos
 FROM
-    top_uk_youtubers_2024;
+    youtube_data_from_python;
 ```
 
 #### SQL View Creation
@@ -141,7 +140,7 @@ SELECT
     total_views,
     total_videos
 FROM
-    top_uk_youtubers_2024;
+    youtube_data_from_python;
 ```
 
 ## Testing & Validation
