@@ -15,6 +15,10 @@ author: "Evangelos"
 github:
   is_project_page: true
 
+# Social Links
+social:
+  linkedin: "https://www.linkedin.com/in/evangelosalexandropoulos/"
+
 # Markdown Processor (Enables GitHub Flavored Markdown for tables)
 kramdown:
   input: GFM
