@@ -162,7 +162,7 @@ SELECT COLUMN_NAME, DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_NAME =
 ## Visualization
 
 ### Power BI Dashboard
-![Power BI Dashboard](assets/images/giphy.mp4)
+![Power BI Dashboard](assets/Power-BI-Dashboard.gif)
 
 ### DAX Measures
 #### Total Subscribers (M)
